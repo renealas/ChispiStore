@@ -1,6 +1,6 @@
 # shop
 
-A new Flutter project.
+App de Flutter para una tienda Virtual.  
 
 ## Getting Started
 
